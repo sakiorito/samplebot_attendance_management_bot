@@ -36,11 +36,11 @@ SERVER_ID = "bc67ead153cb472abf357ca59c880ac7"
 SECRET_KEY_NAME = "private_20201116162842.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://m-kbot.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-54-160-18-230.compute-1.amazonaws.com"
+DB_NAME = "d8joqhq34tciba"
+DB_USER = "pdrxyswbijjyyo"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "10f6bdede6d52d447aa441c4785f784245b26868c3dbc71ba6d91df7e39e04b5"
